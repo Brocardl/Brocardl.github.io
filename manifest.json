@@ -1,6 +1,7 @@
 {
     "short_name": "Pwa",
     "name": "Pwa tp 1",
+    "description": "Application web progressive de test",
     "icons": [
       {
         "src": "logo/Logo.png",
