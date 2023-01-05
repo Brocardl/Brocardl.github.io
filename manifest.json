@@ -1,0 +1,16 @@
+{
+    "short_name": "Pwa",
+    "name": "Pwa tp 1",
+    "icons": [
+      {
+        "src": "logo/Logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "display": "standalone",
+    "theme_color": "#0000ff",
+    "background_color": "#000000"
+}
