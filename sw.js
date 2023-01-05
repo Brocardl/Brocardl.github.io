@@ -10,7 +10,7 @@ const addResourcesToCache = async (resources) => {
         "/index.html",
         "/style.css",
         "/app.js",
-        "logo/Logo.png"
+        "/logo/Logo.png"
       ])
     );
   });
